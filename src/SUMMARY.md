@@ -1,11 +1,11 @@
 # 目录
 
 * [主页](README.md)
-* [卷 I](part1/README.md)
-    * [写作很棒](part1/writing.md)
-    * [GitBook很酷](part1/gitbook.md)
-        * [三级目录](part1/three/third.md)
-* [卷 II](part2/README.md)
-    * [期待反馈](part2/feedback_please.md)
-    * [更好的写作工具](part2/better_tools.md)
+* [Java基础](java/README.md)
+* [Android](android/README.md)
+* [算法和数据结构](algorithm/README.md)
+* [操作系统](os/README.md)
+* [网络](network/README.md)
+* [多媒体](media/README.md)
+* [其它](other/README.md)
 
