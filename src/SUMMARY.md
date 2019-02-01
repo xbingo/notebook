@@ -8,4 +8,5 @@
 * [网络](network/README.md)
 * [多媒体](media/README.md)
 * [其它](other/README.md)
+    * [用gitbook写周报](other/gitbook_oa_pages.md)
 
