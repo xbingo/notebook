@@ -1,6 +1,6 @@
 {
     "root" : "src",
-    "title": "Rubinxie的wiki",
+    "title": "知识汇总",
     "language": "zh-hans",
     "plugins":[
 		"splitter",
