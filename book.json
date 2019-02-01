@@ -1,3 +1,47 @@
 {
-    "root" : "src"
+    "root" : "src",
+    "title": "Rubinxie的wiki",
+    "language": "zh-hans",
+    "plugins":[
+		"splitter",
+		"-sharing",
+        "search-pro",
+        "emphasize",
+        "katex",
+        "mermaid-gb3",
+        "puml",
+        "graph",
+        "chart",
+        "tbfed-pagefooter",
+        "prism", 
+        "-highlight",
+        "expandable-chapters-small",
+        "simple-page-toc",
+        "anchor-navigation-ex",
+        "todo",
+        "include-csv",
+        "theme-comscore" 
+    ],
+    "pluginsConfig": {
+	    "tbfed-pagefooter": {
+            "copyright":"Copyright &copy rubinxie",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "prism": {
+            "ignore": [
+                "mermaid",
+                "eval-js"
+            ]
+        },
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        },
+        
+        "anchor-navigation-ex": {
+            "showLevel": false
+        }
+        
+    }
 }

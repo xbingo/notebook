@@ -1,6 +1,6 @@
 # 目录
 
-* [简介](README.md)
+* [主页](README.md)
 * [卷 I](part1/README.md)
     * [写作很棒](part1/writing.md)
     * [GitBook很酷](part1/gitbook.md)
